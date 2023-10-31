@@ -1,0 +1,25 @@
+{
+  "name": "kw-calc-box-khj20",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "bin":{
+    "calcbox":"./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kimhyeonjung06/kw-calc-box-khj20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kimhyeonjung06/kw-calc-box-khj20/issues"
+  },
+  "homepage": "https://github.com/Kimhyeonjung06/kw-calc-box-khj20#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
